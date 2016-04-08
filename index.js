@@ -1,1 +1,1 @@
-module.exports = require('./DeleteJavaScriptChunkPlugin');
+module.exports = require('./ExportedModule');

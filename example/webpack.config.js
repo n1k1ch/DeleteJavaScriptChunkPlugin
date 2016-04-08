@@ -35,5 +35,5 @@ module.exports = {
         contentBase: './',
         port: 5555
         //,compress:true
-    },
+    }
 };
